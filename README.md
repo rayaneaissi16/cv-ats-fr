@@ -1,2 +1,2 @@
 # cv-ats-fr
-Modèle de CV professionnel compatible ATS en français.
+Modèle de CV professionnel compatible ATS en français 
