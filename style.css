@@ -100,3 +100,24 @@ ul {
         padding: 20px;
     }
 }
+.print-button {
+    display: block;
+    margin: 0 auto 20px;
+    padding: 12px 24px;
+    background: #222222;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.print-button:hover {
+    background: #444444;
+}
+
+@media print {
+    .print-button {
+        display: none;
+    }
+}
